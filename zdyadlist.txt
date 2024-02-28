@@ -324,3 +324,18 @@
 ||file.7youxi.com^
 ||cdn.51img3.com^
 ||test.18bit.cn^
+#某傻逼APP的自带广告的api
+||mi.gdt.qq.com^	 !腾讯的广告api
+||images.pinduoduo.com^	 !拼多多
+||gdfp.gifshow.com^	 !快手
+||cdn.adxvip.com/^ 	 !佳投数字化营销
+||s.adxvip.com^		 !佳投数字化营销
+||sdk.e.qq.com^		 !腾讯的广告api
+||api.hzsanjiaomao.com^	 !三角猫广告api
+||open.e.kuaishou.com^	 !快手广告API
+||rtbcallback.sigmob.cn^ !京创智汇聚科技广告平台
+||dc.sigmob.cn^		 !京创智汇聚科技广告平台
+||adservice.sigmob.cn^   !京创智汇聚科技广告平台
+||huichuan.sm.cn^	 !神马搜索
+#||rmonitor.qq.com^  	 !腾讯旗下的不知道什么平台
+||open.kwaizt.com^   	 !快手子系统
