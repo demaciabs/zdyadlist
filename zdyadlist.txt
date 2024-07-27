@@ -339,3 +339,9 @@
 ||huichuan.sm.cn^	 !神马搜索
 #||rmonitor.qq.com^  	 !腾讯旗下的不知道什么平台
 ||open.kwaizt.com^   	 !快手子系统
+#抖音小游戏的api
+||sfplay.net^
+||byteimg.com^
+||shujupie.com^
+||douyinvod.com^
+||amemv.com^
